@@ -27,7 +27,6 @@ class Diretorio
         int profundidadeGlobal;
         int tamPseudoChave;
         int numeroBaldes;
-        int numChaves;
 };
 
 #endif // DIRETORIO_H
